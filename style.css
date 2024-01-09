@@ -7,7 +7,7 @@ body, html {
   }
   
   .bg-image {
-    background-image: url("wp3090856-rolls-royce-classics-wallpapers.jpg");
+    background-image: url("bg.jpg");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100%;
@@ -45,7 +45,7 @@ body, html {
       }
       
       .bg-image {
-        background-image: url("wp3090856-rolls-royce-classics-wallpapers.jpg");
+        background-image: url("bg.jpg");
         filter: blur(8px);
         -webkit-filter: blur(8px);
         height: 100%;
