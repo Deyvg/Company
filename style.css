@@ -7,7 +7,7 @@ body, html {
   }
   
   .bg-image {
-    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F827536500258259952%2F&psig=AOvVaw3TYWECFnEst8ezvWIDCjuY&ust=1704896949603000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPiyqZrC0IMDFQAAAAAdAAAAABAE");
+    background-image: url("bg.jpg");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100%;
